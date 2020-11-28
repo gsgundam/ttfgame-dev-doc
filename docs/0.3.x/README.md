@@ -2,7 +2,7 @@
 
 TTFGame开放平台是基于TTFGame生态与区块链所打造的开放性游戏平台。
 
-![preview](../img/ttfgame_preview_01.png)
+![preview](./img/ttfgame_preview_01.png)
 
 > TTFGame生态下有多个基础平台支持，当前开放平台仅针对区块链部分。
 
@@ -13,23 +13,23 @@ TTFGame开放平台是基于TTFGame生态与区块链所打造的开放性游戏
 
 ## 2.1 创建开发者账号
 
-通过平台管理员分发给您的地址，创建一个开发者账号。
+通过[开发者注册页面](http://ttftest.dashgame.com/admin/index/register1)，创建一个开发者账号。
 
-![preview](../img/ttfgame_preview_02.png)
+![preview](./img/ttfgame_preview_02.png)
 
 验证邮箱。
 
-![preview](../img/ttfgame_preview_03.png)
+![preview](./img/ttfgame_preview_03.png)
 
 录入信息等待审核验证。
 
-![preview](../img/ttfgame_preview_04.png)
+![preview](./img/ttfgame_preview_04.png)
 
 ## 2.2 添加测试人员账号
 
 通过验证以后，可以通过左侧菜单添加测试人员账号。
 
-![preview](../img/ttfgame_preview_06.png)
+![preview](./img/ttfgame_preview_06.png)
 
 其中，手机号和密码是必填项。
 
@@ -37,7 +37,7 @@ TTFGame开放平台是基于TTFGame生态与区块链所打造的开放性游戏
 
 通过验证以后，可以通过左侧菜单创建游戏。
 
-![preview](../img/ttfgame_preview_05.png)
+![preview](./img/ttfgame_preview_05.png)
 
 创建好游戏以后，需要设置一些必要参数，以便之后接入游戏。包括：
 
@@ -50,19 +50,19 @@ TTFGame开放平台是基于TTFGame生态与区块链所打造的开放性游戏
 支付回调测试地址（开放平台测试版的服务端支付回调地址））
 登录测试地址（开放平台测试版的游戏访问地址）
 ```
-![preview](../img/ttfgame_preview_07.png)
+![preview](./img/ttfgame_preview_07.png)
 
 设置完成以后，如果有需要调整的，可点击编辑按钮更改。
 
-![preview](../img/ttfgame_preview_08.png)
+![preview](./img/ttfgame_preview_08.png)
 
-创建和修改以后，请等待或联系平台管理员进行审核，以便添加和修改的内容生效。
+创建和修改以后，请等待或联系管理员进行审核，以便添加和修改的内容生效。
 
-![preview](../img/ttfgame_preview_09.png)
+![preview](./img/ttfgame_preview_09.png)
 
-当自行检测游戏通过，并经过平台管理员审核以后，就可以点击发布按钮，发布游戏到正式客户端。
+当自行检测游戏通过，并经过管理员审核以后，就可以点击发布按钮，发布游戏到正式客户端。
 
-![preview](../img/ttfgame_preview_10.png)
+![preview](./img/ttfgame_preview_10.png)
 
 ## 2.4 下载测试App
 
